@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/tomit4/dojo_blog/main/assets/react_logo.png">
+<img align="center" src="https://raw.githubusercontent.com/tomit4/dojo_blog/main/assets/react_logo.png">
 <h2 align="center">Net Ninja 2021 Intro To React Follow Along</h2>
 
 #### Introduction
